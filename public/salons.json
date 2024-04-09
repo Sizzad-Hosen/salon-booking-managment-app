@@ -1,0 +1,280 @@
+
+[
+  {
+    "id": 1,
+    "title": "Elegant Hair Studio",
+    "description": "Experience elegance and sophistication at our premium hair studio.",
+    "banner_url": "https://example.com/elegant-hair-studio/banner.jpg",
+    "img_url": "https://i.postimg.cc/nLVxBpPb/img1.jpg",
+    "thumbnail_url": "https://i.postimg.cc/nLVxBpPb/img1.jpg",
+    "review": [
+      {
+        "user": "Sophie",
+        "rating": 5,
+        "comment": "Absolutely love my new haircut!"
+      },
+      {
+        "user": "Jack",
+        "rating": 4,
+        "comment": "Great service and friendly staff."
+      }
+    ],
+    "price": 45,
+    "contact": "+123456789"
+  },
+  {
+    "id": 2,
+    "title": "Serene Beauty Spa",
+    "description": "Relax and rejuvenate in a serene oasis at our beauty spa.",
+    "banner_url": "https://example.com/serene-beauty-spa/banner.jpg",
+    "img_url": "https://ibb.co/2n7wQpP",
+    "thumbnail_url": "https://i.postimg.cc/4ycRsdmt/img2.jpg",
+    "review": [
+      {
+        "user": "Emma",
+        "rating": 5,
+        "comment": "Amazing spa experience!"
+      },
+      {
+        "user": "Liam",
+        "rating": 4,
+        "comment": "Great massages and calming atmosphere."
+      }
+    ],
+    "price": 38,
+    "contact": "+987654321"
+  },
+  {
+    "id": 3,
+    "title": "Trendy Nail Bar",
+    "description": "Stay on-trend with the latest nail designs at our chic nail bar.",
+    "banner_url": "https://example.com/trendy-nail-bar/banner.jpg",
+    "img_url": "https://ibb.co/BL0zHNT",
+    "thumbnail_url": "https://i.postimg.cc/cJvDVzKt/img4.jpg",
+    "review": [
+      {
+        "user": "Olivia",
+        "rating": 5,
+        "comment": "Love my new nails!"
+      },
+      {
+        "user": "Noah",
+        "rating": 4,
+        "comment": "Great nail art and friendly technicians."
+      }
+    ],
+    "price": 55,
+    "contact": "+246810123"
+  },
+  {
+    "id": 4,
+    "title": "Blissful Massage Center",
+    "description": "Experience bliss and relaxation with our professional massage services.",
+    "banner_url": "https://example.com/blissful-massage-center/banner.jpg",
+    "img_url": "https://ibb.co/VQS8pcv",
+    "thumbnail_url": "https://i.postimg.cc/sxgGNkXt/img6.jpg",
+    "review": [
+      {
+        "user": "Ava",
+        "rating": 5,
+        "comment": "Best massage I've ever had!"
+      },
+      {
+        "user": "William",
+        "rating": 4,
+        "comment": "Relaxing ambiance and skilled therapists."
+      }
+    ],
+    "price": 40,
+    "contact": "+135792468"
+  },
+  {
+    "id": 5,
+    "title": "Chic Cuts Salon",
+    "description": "Get the latest chic cuts and styles at our trendy salon.",
+    "banner_url": "https://example.com/chic-cuts-salon/banner.jpg",
+    "img_url": "https://ibb.co/wBYc30b",
+    "thumbnail_url": "https://i.postimg.cc/3wQ4T4Nj/img10.jpg",
+    "review": [
+      {
+        "user": "Sophia",
+        "rating": 5,
+        "comment": "Love my new haircut!"
+      },
+      {
+        "user": "James",
+        "rating": 4,
+        "comment": "Friendly staff and modern salon."
+      }
+    ],
+    "price": 42,
+    "contact": "+112233445"
+  },
+  {
+    "id": 6,
+    "title": "Tranquil Retreat Spa",
+    "description": "Escape to tranquility and relaxation at our serene spa retreat.",
+
+
+"banner_url": "https://example.com/tranquil-retreat-spa/banner.jpg",
+    "img_url": "https://ibb.co/L11GdRz",
+    "thumbnail_url": "https://i.postimg.cc/YS79P5Db/Luxe-Nail-Bar.jpg",
+    "review": [
+      {
+        "user": "Chloe",
+        "rating": 5,
+        "comment": "Amazing spa experience!"
+      },
+      {
+        "user": "Ethan",
+        "rating": 4,
+        "comment": "Great massages and calming atmosphere."
+      }
+    ],
+    "price": 45,
+    "contact": "+7788991122"
+  },
+  {
+    "id": 7,
+    "title": "Glamorous Beauty Salon",
+    "description": "Transform your look and feel glamorous at our beauty salon.",
+    "banner_url": "https://example.com/glamorous-beauty-salon/banner.jpg",
+    "img_url":"https://ibb.co/sJ0vPZ9",
+    "thumbnail_url": "https://i.postimg.cc/2SDLpLVQ/Nature-s-Retreat-Spa.jpg",
+    "review": [
+      {
+        "user": "Mia",
+        "rating": 5,
+        "comment": "Relaxing atmosphere and skilled therapists!"
+      },
+      {
+        "user": "Ethan",
+        "rating": 4,
+        "comment": "Great spa experience and friendly staff."
+      }
+    ],
+    "price": 50,
+   
+    "contact": "+1568542455"
+  },
+
+
+
+
+
+  
+
+  {
+    "id": 8,
+    "title": "Radiant Glow Spa",
+    "description": "Achieve a radiant glow and inner harmony at our tranquil spa.",
+    "banner_url": "https://example.com/radiant-glow-spa/banner.jpg",
+    "img_url": "https://ibb.co/HVdh6sx",
+    "thumbnail_url": "https://i.postimg.cc/tCtCxS46/Ocean-Breeze-Spa.jpg",
+    "review": [
+      {
+        "user": "Mia",
+        "rating": 5,
+        "comment": "Relaxing atmosphere and skilled therapists!"
+      },
+      {
+        "user": "Ethan",
+        "rating": 4,
+        "comment": "Great spa experience and friendly staff."
+      }
+    ],
+    "price": 52,
+    "contact": "+1122334455"
+  },
+  {
+    "id": 9,
+    "title": "Luxe Nail Bar",
+    "description": "Indulge in luxury nail treatments at our upscale nail bar.",
+    "banner_url": "https://example.com/luxe-nail-bar/banner.jpg",
+    "img_url": "https://ibb.co/806dpM4",
+    "thumbnail_url": "https://i.postimg.cc/tCtCxS46/Ocean-Breeze-Spa.jpg",
+    "review": [
+      {
+        "user": "Oliver",
+        "rating": 5,
+        "comment": "Love the luxurious ambiance!"
+      },
+      {
+        "user": "Ava",
+        "rating": 4,
+        "comment": "Great nail technicians and top-quality products."
+      }
+    ],
+    "price":35,
+    "contact": "+2233445566"
+  },
+  {
+    "id": 10,
+    "title": "Gentle Touch Spa",
+    "description": "Experience gentle relaxation and rejuvenation at our spa.",
+    "banner_url": "https://example.com/gentle-touch-spa/banner.jpg",
+    "img_url": "https://ibb.co/2n7wQpP",
+    "thumbnail_url": "https://i.postimg.cc/K88FgmVX/pricing-2.jpg",
+    "review": [
+      {
+        "user": "Liam",
+        "rating": 5,
+        "comment": "Relaxing massages and soothing ambiance!"
+      },
+      {
+        "user": "Emma",
+        "rating": 4,
+        "comment": "Great spa experience and friendly staff."
+      }
+    ],
+    "price": 40,
+    "contact": "+3344556677"
+  },
+  {
+    "id": 11,
+    "title": "Urban Edge Salon",
+    "description": "Stay on the cutting edge of style at our urban salon.",
+    "banner_url": "https://example.com/urban-edge-salon/banner.jpg",
+    "img_url": "https://i.postimg.cc/6p34cJSR/img1.jpg",
+    "thumbnail_url": "https://i.postimg.cc/YC0KCbGM/pricing-3.jpg",
+    
+    "review": [
+      {
+        "user": "Sophie",
+        "rating": 5,
+        "comment": "Love my edgy new hairstyle!"
+      },
+      {
+        "user": "Jack",
+        "rating": 4,
+        "comment": "Talented stylists and modern salon."
+      }
+    ],
+    "price":55,
+    "contact": "+5566778899"
+  },
+  {
+    "id": 12,
+    "title": "Nature's Retreat Spa",
+    "description": "Connect with nature and rejuvenate your senses at our spa retreat.",
+    "banner_url": "https://example.com/natures-retreat-spa/banner.jpg",
+    "img_url": "https://ibb.co/L11GdRz",
+    "thumbnail_url": "https://i.postimg.cc/28jg02xh/Urban-Edge-Salon.jpg",
+    "review": [
+      {
+        "user": "Olivia",
+        "rating": 5,
+        "comment": "Truly rejuvenating experience!"
+      },
+      {
+        "user": "Noah",
+        "rating": 4,
+        "comment": "Great massages and serene environment."
+      }
+    ],
+    "price":66,
+    "contact": "+9900112233"
+  }
+  
+
+]
